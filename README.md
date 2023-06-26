@@ -1,3 +1,5 @@
+![Python-Version](https://img.shields.io/badge/python-3.10-blue)
+
 # Off-the-shelf learning: A way to use deep learning on MRI studies with a small sample size
 
 
