@@ -1,6 +1,9 @@
 ![Python-Version](https://img.shields.io/badge/python-3.10-blue)
 
-# Off-the-shelf learning: A way to use deep learning on MRI studies with a small sample size
+# Overcoming Data Availability in MRI Studies: Leveraging Off-the-Shelf Deep Learning Models
+
+
+![encoder](https://github.com/mfmachado/transfer-learning-age-sex-prediction/blob/main/resources/autoencoder.png)
 
 
 ### Create autoencoder
