@@ -1,6 +1,6 @@
 ![Python-Version](https://img.shields.io/badge/python-3.10-blue)
 
-# Overcoming Data Availability in MRI Studies: Leveraging Off-the-Shelf Deep Learning Models
+# 3DCAE-MRI: Overcoming Data Availability in Small Sample Size MRI Studies
 
 
 ![encoder](https://github.com/mfmachado/transfer-learning-age-sex-prediction/blob/main/resources/autoencoder.png)
